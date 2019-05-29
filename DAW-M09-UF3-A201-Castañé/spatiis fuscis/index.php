@@ -11,7 +11,7 @@
 	<link href="default.css" rel="stylesheet" type="text/css" media="all" />
 	<link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
 </head>
-
+<?php echo 'hola'; ?>
 <body>
 	<div id="wrapper">
 		<div id="header-wrapper">
