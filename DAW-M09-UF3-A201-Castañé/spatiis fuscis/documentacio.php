@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<?php echo '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 
@@ -41,10 +41,10 @@
 	
 			<h1 class="documentacio_h1">Tecnologies empleades pels elements gràfics</h1>
 			<p class="documentacio_paragraf"><h3 class="documentacio_h2">Botons:</h3>
-				<a>Per dissenyà els botos, he utilitzat l'eina inkscape. Aquesta eina m'ha permès ajustar les mides dels botons, el color etc. He utilitzat aquesta eina perquè és molt fàcil d'utilitzar i molt intuïtiva. </a>
+				<a>Per dissenyà els botos, he utilitzat l eina inkscape. Aquesta eina m ha permès ajustar les mides dels botons, el color etc. He utilitzat aquesta eina perquè és molt fàcil d utilitzar i molt intuïtiva. </a>
 
 				<h3 class="documentacio_h2">Icona:</h3>
-				<a>Per a l'icona he utilitzat adobe photoshop ja que al utilitzar com a base dues imatges diferents, he pensat que és la millor eina per l'edició d'aquest tipus de contingut.</a>
+				<a>Per a l icona he utilitzat adobe photoshop ja que al utilitzar com a base dues imatges diferents, he pensat que és la millor eina per l edició d aquest tipus de contingut.</a>
 				<h3 class="documentacio_h2">Imatge amb moviment</h3>
 			<a>Per fer la imatge amb moviment, he utilitzat el programari lliure GIMP que per fer aquestes coses, és molt més senzill de fer que amb el photoshop.</a>
 			</p>
@@ -57,3 +57,5 @@
 </body>
 
 </html>
+';
+?>

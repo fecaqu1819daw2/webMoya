@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<?php echo '<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 
 <html xmlns="http://www.w3.org/1999/xhtml">
 
@@ -11,7 +11,7 @@
 	<link href="default.css" rel="stylesheet" type="text/css" media="all" />
 	<link href="fonts.css" rel="stylesheet" type="text/css" media="all" />
 </head>
-<?php echo 'hola'; ?>
+
 <body>
 	<div id="wrapper">
 		<div id="header-wrapper">
@@ -45,8 +45,7 @@
 						<li><a href="#">Ut tincidunt elit vitae augue</a></li>
 						<li><a href="#">Sed quis odio sagittis leo vehicula</a></li>
 					</ul>
-					<a href="#"><img src="images/button-blue.png" onmouseover="this.src='images/button-blue2.png';" onmouseout="this.src='images/button-blue.png';"
-						 width="" height="" alt="" /></a>
+					
 				</div>
 				<div id="box2">
 
@@ -57,8 +56,7 @@
 						<li><a href="#">Ut tincidunt elit vitae augue</a></li>
 						<li><a href="#">Aenean elementum facilisis ligula</a></li>
 					</ul>
-					<a href="#"><img src="images/button-blue.png" onmouseover="this.src='images/button-blue2.png';" onmouseout="this.src='images/button-blue.png';"
-						 width="" height="" alt="" /></a>
+					
 				</div>
 			</div>
 			<div id="content">
@@ -96,8 +94,7 @@
 							<p><a href="#">Quisque dictum risus, sagittis convallis, rutrum congue, and nibh.</a></p>
 						</li>
 					</ul>
-					<a href="#"><img src="images/button-blue.png" onmouseover="this.src='images/button-blue2.png';" onmouseout="this.src='images/button-blue.png';"
-						 width="" height="" alt="" /></a>
+					
 				</div>
 			</div>
 		</div>
@@ -155,6 +152,5 @@
 
 </html>
 
-<img src="Aqui pones la imagen que se ve a simple Vista" onmouseover="this.src='Imagen que aparecera al pasar el mouse';"
- onmouseout="this.src='Aqui pones la imagen que quieres que aparesca cuando saques el mouse de encima (te recomiendo usar la misma que la primera)';"
- height="(alto)px" with="(ancho)px" />
+';
+ ?>
